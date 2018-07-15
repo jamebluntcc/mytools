@@ -13,3 +13,7 @@ useful utils functions for python&amp;js for web development
 ## python
 
 - isNumber 对传入字符串进行是否为数字判断;
+
+- redis2redis2dict 接收 `redis` 的哈希字符串为参数，解析成 `python` 的字典数据类型；
+
+- transtime 实现时间字符串与时间戳的相互转换;
