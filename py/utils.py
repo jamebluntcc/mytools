@@ -13,6 +13,7 @@ def transtime(arg, format="%Y-%m-%d %H:%M:%S"):
         return time.strftime(format, time.localtime(arg))
     elif isinstance(arg, str):
         return int(time.mktime(time.strptime(arg, format)))
+    return None
 
 if __name__ == '__main__':
     result = isNumber('120.00')
