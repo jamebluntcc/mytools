@@ -17,3 +17,5 @@ useful utils functions for python&amp;js for web development
 - redis2redis2dict 接收 `redis` 的哈希字符串为参数，解析成 `python` 的字典数据类型；
 
 - transtime 实现时间字符串与时间戳的相互转换;
+
+- logger 定义简单的处理日志的方法;
