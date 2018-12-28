@@ -20,7 +20,10 @@ useful utils functions for python&amp;js for web development
 
 - logger 定义简单的处理日志的方法;
 
+- 添加多线程多进程使用方法;
 
 ## sh
 
 - 设置了 `aws` 服务器 vpn 的搭建,最后需要在 `ec2` 控制台安全组设置入站与出站流量;
+
+- 配置文件 `centos` 安装 `mongodb`;
