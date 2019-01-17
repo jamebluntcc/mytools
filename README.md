@@ -9,6 +9,8 @@ useful utils functions for python&amp;js for web development
 
 - 增加 django crsf token 保护;
 
+- 添加 modal 控件;
+
 
 ## python
 
