@@ -2,7 +2,7 @@ sudo yum install -y python-setuptools
 sudo easy_install pip
 sudo pip install shadowsocks
 
-mkdir /etc/shadowsocks
+sudo mkdir /etc/shadowsocks
 sudo vim /etc/shadowsocks/config.json
 
 sudo /bin/ssserver -c /etc/shadowsocks/config.json -d start # 启动
