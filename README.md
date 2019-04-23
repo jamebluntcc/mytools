@@ -31,3 +31,7 @@ useful utils functions for python&amp;js for web development
 - 设置了 `aws` 服务器 vpn 的搭建,最后需要在 `ec2` 控制台安全组设置入站与出站流量;
 
 - 配置文件 `centos` 安装 `mongodb`;
+
+## changlog
+
+- 添加数据上传包含文件以及其他信息的post传递(2019-04-23)
