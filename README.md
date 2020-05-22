@@ -24,8 +24,21 @@ useful utils functions for python&amp;js for web development
 
 - 添加多线程多进程使用方法;
 
+- 添加基于 `redis` 的缓存方法;
+
+
 ## sh
 
 - 设置了 `aws` 服务器 vpn 的搭建,最后需要在 `ec2` 控制台安全组设置入站与出站流量;
 
 - 配置文件 `centos` 安装 `mongodb`;
+
+
+## web
+
+- 一个 demo 用于测试 `datatable`的分页服务;
+
+
+## change log
+
+- 2020-05-22 (添加基于 `redis` 的缓存方法以及一个基于 `flask-sqlalchemy` 分页的 `datatable` 封装工场类;)
