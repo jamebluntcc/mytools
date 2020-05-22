@@ -26,6 +26,7 @@ useful utils functions for python&amp;js for web development
 
 - 添加基于 `redis` 的缓存方法;
 
+- 添加异步获取url方法
 
 ## sh
 
@@ -39,6 +40,7 @@ useful utils functions for python&amp;js for web development
 - 一个 demo 用于测试 `datatable`的分页服务;
 
 
-## change log
+## changelog
 
 - 2020-05-22 (添加基于 `redis` 的缓存方法以及一个基于 `flask-sqlalchemy` 分页的 `datatable` 封装工场类;)
+- 2019-04-24 (添加数据上传包含文件以及其他信息的post传递;)
