@@ -20,7 +20,7 @@ useful utils functions for python&amp;js for web development
 
 - transtime 实现时间字符串与时间戳的相互转换;
 
-- logger 定义简单的处理日志的方法;
+- logger 定义简单的处理日志的装饰器;
 
 - 添加多线程多进程使用方法;
 
