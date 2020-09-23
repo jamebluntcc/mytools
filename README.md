@@ -41,7 +41,17 @@ useful utils functions for python&amp;js for web development
 
 - 基于 `django rest framework`的脚手架方法集;
 
+## docker
+
+- 一个基础的`DockerFile` web 应用跑在容器中的配置;
+
+```
+docker build -t dh.klicen.com/web-demo:v1.0 .
+docker run -d -p 80:8083 --name web-demo:v1.0
+```
+
 ## changelog
+- 2020-09-23 (添加 `dockerfile` 文件配置;)
 - 2020-09-03 (添加基于 `django rest framework` 的脚手架工具集;)
 - 2020-05-22 (添加基于 `redis` 的缓存方法以及一个基于 `flask-sqlalchemy` 分页的 `datatable` 封装工场类;)
 - 2019-04-24 (添加数据上传包含文件以及其他信息的post传递;)
