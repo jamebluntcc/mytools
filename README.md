@@ -46,7 +46,7 @@ useful utils functions for python&amp;js for web development
 - 一个基础的`DockerFile` web 应用跑在容器中的配置;
 
 ```
-docker build -t dh.klicen.com/web-demo:v1.0 .
+docker build -t jamebluntcc/web-demo:v1.0 .
 docker run -d -p 80:8083 --name web-demo:v1.0
 ```
 
